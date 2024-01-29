@@ -9,5 +9,5 @@ services:
           - /gists
     plugins:
       - name: go-wait
-        config:
-          waittime: 5
+        # config:
+        #   waittime: 5
