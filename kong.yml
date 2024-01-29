@@ -8,6 +8,6 @@ services:
         paths:
           - /gists
     plugins:
-      - name: go-wait
+      - name: api-token
         # config:
         #   waittime: 5
